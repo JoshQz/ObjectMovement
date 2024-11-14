@@ -1,0 +1,16 @@
+C:\UnderstandingApps\MatchingPattern\MatchingPattern\bin\Debug\net8.0-windows\MatchingPattern.exe
+C:\UnderstandingApps\MatchingPattern\MatchingPattern\bin\Debug\net8.0-windows\MatchingPattern.deps.json
+C:\UnderstandingApps\MatchingPattern\MatchingPattern\bin\Debug\net8.0-windows\MatchingPattern.runtimeconfig.json
+C:\UnderstandingApps\MatchingPattern\MatchingPattern\bin\Debug\net8.0-windows\MatchingPattern.dll
+C:\UnderstandingApps\MatchingPattern\MatchingPattern\bin\Debug\net8.0-windows\MatchingPattern.pdb
+C:\UnderstandingApps\MatchingPattern\MatchingPattern\obj\Debug\net8.0-windows\MatchingPattern.csproj.GenerateResource.cache
+C:\UnderstandingApps\MatchingPattern\MatchingPattern\obj\Debug\net8.0-windows\MatchingPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnderstandingApps\MatchingPattern\MatchingPattern\obj\Debug\net8.0-windows\MatchingPattern.AssemblyInfoInputs.cache
+C:\UnderstandingApps\MatchingPattern\MatchingPattern\obj\Debug\net8.0-windows\MatchingPattern.AssemblyInfo.cs
+C:\UnderstandingApps\MatchingPattern\MatchingPattern\obj\Debug\net8.0-windows\MatchingPattern.csproj.CoreCompileInputs.cache
+C:\UnderstandingApps\MatchingPattern\MatchingPattern\obj\Debug\net8.0-windows\MatchingPattern.dll
+C:\UnderstandingApps\MatchingPattern\MatchingPattern\obj\Debug\net8.0-windows\refint\MatchingPattern.dll
+C:\UnderstandingApps\MatchingPattern\MatchingPattern\obj\Debug\net8.0-windows\MatchingPattern.pdb
+C:\UnderstandingApps\MatchingPattern\MatchingPattern\obj\Debug\net8.0-windows\MatchingPattern.genruntimeconfig.cache
+C:\UnderstandingApps\MatchingPattern\MatchingPattern\obj\Debug\net8.0-windows\ref\MatchingPattern.dll
+C:\UnderstandingApps\MatchingPattern\MatchingPattern\obj\Debug\net8.0-windows\MatchingPattern.ScreenView.resources
